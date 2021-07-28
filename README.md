@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mnc-lxy
+- 👀 I’m interested in  linguagens de programação e iniciação de projetos
+- 🌱 I’m currently learning linguagens de programação
